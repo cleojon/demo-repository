@@ -1,3 +1,3 @@
-#DEMO1
+#DEMO
 
 First project.
